@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hw1_The_Exercise_App_G.Canos/1.0.0": {
+        "runtime": {
+          "Hw1_The_Exercise_App_G.Canos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hw1_The_Exercise_App_G.Canos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

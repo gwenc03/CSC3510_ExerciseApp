@@ -1,0 +1,15 @@
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\bin\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.exe
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\bin\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.deps.json
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\bin\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.runtimeconfig.json
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\bin\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.dll
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\bin\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.pdb
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.csproj.AssemblyReference.cache
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.AssemblyInfoInputs.cache
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.AssemblyInfo.cs
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.csproj.CoreCompileInputs.cache
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.dll
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\refint\Hw1_The_Exercise_App_G.Canos.dll
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.pdb
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\Hw1_The_Exercise_App_G.Canos.genruntimeconfig.cache
+C:\Users\gwenc\source\repos\Hw1_The_Exercise_App_G.Canos\Hw1_The_Exercise_App_G.Canos\obj\Debug\net6.0\ref\Hw1_The_Exercise_App_G.Canos.dll
